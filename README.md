@@ -1,5 +1,5 @@
 # Control-System
-Matlab / Simulink project. A noisey step response from a plant is processed, and Zeigler-Nichols, Haglund Astrom and Cohen & Coon controllers are designed to improve the response. The influence of step desturbances, and saturation are also investigated. Saturation is compensated for via anti-windup. Please see the [full report](https://github.com/Luke-Byrne-uni/Control-System/blob/main/Report.pdf) for details
+Matlab / Simulink project. A noisey step response from a plant is processed, and Zeigler-Nichols, Haglund Astrom and Cohen & Coon controllers are designed to improve the response. The influence of step desturbances, and saturation are also investigated. Saturation is compensated for via anti-windup. Please see the [full report](https://github.com/Luke-Byrne-uni/Control-System/blob/main/Report.pdf) for details.
 
 # Use
 The full contents of this repo must be placed inside of the /Documents/MATLAB folder, or the current working directory for MATLAB if this has been changed.
